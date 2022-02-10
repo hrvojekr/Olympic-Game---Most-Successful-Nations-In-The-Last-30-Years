@@ -1,0 +1,848 @@
+Nation,Abbreviation,Gold,Silver,Bronze,Total,Year,Type,Host
+United States,USA,39,41,33,113,2020,Summer,Japan
+People's Republic of China,CHN,38,32,18,88,2020,Summer,Japan
+Japan,JPN,27,14,17,58,2020,Summer,Japan
+Great Britain,GBR,22,21,22,65,2020,Summer,Japan
+Russian Olympic Committee,ROC,20,28,23,71,2020,Summer,Japan
+Australia,AUS,17,7,22,46,2020,Summer,Japan
+Netherlands,NED,10,12,14,36,2020,Summer,Japan
+France,FRA,10,12,11,33,2020,Summer,Japan
+Germany,GER,10,11,16,37,2020,Summer,Japan
+Italy,ITA,10,10,20,40,2020,Summer,Japan
+Canada,CAN,7,6,11,24,2020,Summer,Japan
+Brazil,BRA,7,6,8,21,2020,Summer,Japan
+New Zealand,NZL,7,6,7,20,2020,Summer,Japan
+Cuba,CUB,7,3,5,15,2020,Summer,Japan
+Hungary,HUN,6,7,7,20,2020,Summer,Japan
+Republic of Korea,KOR,6,4,10,20,2020,Summer,Japan
+Poland,POL,4,5,5,14,2020,Summer,Japan
+Czech Republic,CZE,4,4,3,11,2020,Summer,Japan
+Kenya,KEN,4,4,2,10,2020,Summer,Japan
+Norway,NOR,4,2,2,8,2020,Summer,Japan
+Jamaica,JAM,4,1,4,9,2020,Summer,Japan
+Spain,ESP,3,8,6,17,2020,Summer,Japan
+Sweden,SWE,3,6,0,9,2020,Summer,Japan
+Switzerland,SUI,3,4,6,13,2020,Summer,Japan
+Denmark,DEN,3,4,4,11,2020,Summer,Japan
+Croatia,CRO,3,3,2,8,2020,Summer,Japan
+Islamic Republic of Iran,IRI,3,2,2,7,2020,Summer,Japan
+Serbia,SRB,3,1,5,9,2020,Summer,Japan
+Belgium,BEL,3,1,3,7,2020,Summer,Japan
+Bulgaria,BUL,3,1,2,6,2020,Summer,Japan
+Slovenia,SLO,3,1,1,5,2020,Summer,Japan
+Uzbekistan,UZB,3,0,2,5,2020,Summer,Japan
+Georgia,GEO,2,5,1,8,2020,Summer,Japan
+Chinese Taipei,TPE,2,4,6,12,2020,Summer,Japan
+Turkey,TUR,2,2,9,13,2020,Summer,Japan
+Greece,GRE,2,1,1,4,2020,Summer,Japan
+Uganda,UGA,2,1,1,4,2020,Summer,Japan
+Ecuador,ECU,2,1,0,3,2020,Summer,Japan
+Ireland,IRL,2,0,2,4,2020,Summer,Japan
+Israel,ISR,2,0,2,4,2020,Summer,Japan
+Qatar,QAT,2,0,1,3,2020,Summer,Japan
+Kosovo,KOS,2,0,0,2,2020,Summer,Japan
+The Bahamas,BAH,2,0,0,2,2020,Summer,Japan
+Ukraine,UKR,1,6,12,19,2020,Summer,Japan
+Belarus,BLR,1,3,3,7,2020,Summer,Japan
+Romania,ROU,1,3,0,4,2020,Summer,Japan
+Venezuela,VEN,1,3,0,4,2020,Summer,Japan
+India,IND,1,2,4,7,2020,Summer,Japan
+"Hong Kong, China",HKG,1,2,3,6,2020,Summer,Japan
+Philippines,PHI,1,2,1,4,2020,Summer,Japan
+Slovakia,SVK,1,2,1,4,2020,Summer,Japan
+South Africa,RSA,1,2,0,3,2020,Summer,Japan
+Austria,AUT,1,1,5,7,2020,Summer,Japan
+Egypt,EGY,1,1,4,6,2020,Summer,Japan
+Indonesia,INA,1,1,3,5,2020,Summer,Japan
+Ethiopia,ETH,1,1,2,4,2020,Summer,Japan
+Portugal,POR,1,1,2,4,2020,Summer,Japan
+Tunisia,TUN,1,1,0,2,2020,Summer,Japan
+Estonia,EST,1,0,1,2,2020,Summer,Japan
+Fiji,FIJ,1,0,1,2,2020,Summer,Japan
+Latvia,LAT,1,0,1,2,2020,Summer,Japan
+Thailand,THA,1,0,1,2,2020,Summer,Japan
+Bermuda,BER,1,0,0,1,2020,Summer,Japan
+Morocco,MAR,1,0,0,1,2020,Summer,Japan
+Puerto Rico,PUR,1,0,0,1,2020,Summer,Japan
+Colombia,COL,0,4,1,5,2020,Summer,Japan
+Azerbaijan,AZE,0,3,4,7,2020,Summer,Japan
+Dominican Republic,DOM,0,3,2,5,2020,Summer,Japan
+Armenia,ARM,0,2,2,4,2020,Summer,Japan
+Kyrgyzstan,KGZ,0,2,1,3,2020,Summer,Japan
+Mongolia,MGL,0,1,3,4,2020,Summer,Japan
+Argentina,ARG,0,1,2,3,2020,Summer,Japan
+San Marino,SMR,0,1,2,3,2020,Summer,Japan
+Jordan,JOR,0,1,1,2,2020,Summer,Japan
+Malaysia,MAS,0,1,1,2,2020,Summer,Japan
+Nigeria,NGR,0,1,1,2,2020,Summer,Japan
+Bahrain,BRN,0,1,0,1,2020,Summer,Japan
+Kingdom of Saudi Arabia,KSA,0,1,0,1,2020,Summer,Japan
+Lithuania,LTU,0,1,0,1,2020,Summer,Japan
+Namibia,NAM,0,1,0,1,2020,Summer,Japan
+North Macedonia,MKD,0,1,0,1,2020,Summer,Japan
+Turkmenistan,TKM,0,1,0,1,2020,Summer,Japan
+Kazakhstan,KAZ,0,0,8,8,2020,Summer,Japan
+Mexico,MEX,0,0,4,4,2020,Summer,Japan
+Finland,FIN,0,0,2,2,2020,Summer,Japan
+Botswana,BOT,0,0,1,1,2020,Summer,Japan
+Burkina Faso,BUR,0,0,1,1,2020,Summer,Japan
+Côte d'Ivoire,CIV,0,0,1,1,2020,Summer,Japan
+Ghana,GHA,0,0,1,1,2020,Summer,Japan
+Grenada,GRN,0,0,1,1,2020,Summer,Japan
+Kuwait,KUW,0,0,1,1,2020,Summer,Japan
+Republic of Moldova,MDA,0,0,1,1,2020,Summer,Japan
+Syrian Arab Republic,SYR,0,0,1,1,2020,Summer,Japan
+United States,USA,46,37,38,121,2016,Summer,Brazil
+Great Britain,GBR,27,23,17,67,2016,Summer,Brazil
+People's Republic of China,CHN,26,18,26,70,2016,Summer,Brazil
+Russian Federation,RUS,19,17,20,56,2016,Summer,Brazil
+Germany,GER,17,10,15,42,2016,Summer,Brazil
+Japan,JPN,12,8,21,41,2016,Summer,Brazil
+France,FRA,10,18,14,42,2016,Summer,Brazil
+Republic of Korea,KOR,9,3,9,21,2016,Summer,Brazil
+Italy,ITA,8,12,8,28,2016,Summer,Brazil
+Australia,AUS,8,11,10,29,2016,Summer,Brazil
+Netherlands,NED,8,7,4,19,2016,Summer,Brazil
+Hungary,HUN,8,3,4,15,2016,Summer,Brazil
+Brazil,BRA,7,6,6,19,2016,Summer,Brazil
+Spain,ESP,7,4,6,17,2016,Summer,Brazil
+Kenya,KEN,6,6,1,13,2016,Summer,Brazil
+Jamaica,JAM,6,3,2,11,2016,Summer,Brazil
+Croatia,CRO,5,3,2,10,2016,Summer,Brazil
+Cuba,CUB,5,2,4,11,2016,Summer,Brazil
+New Zealand,NZL,4,9,5,18,2016,Summer,Brazil
+Canada,CAN,4,3,15,22,2016,Summer,Brazil
+Uzbekistan,UZB,4,2,7,13,2016,Summer,Brazil
+Kazakhstan,KAZ,3,5,10,18,2016,Summer,Brazil
+Colombia,COL,3,2,3,8,2016,Summer,Brazil
+Switzerland,SUI,3,2,2,7,2016,Summer,Brazil
+Islamic Republic of Iran,IRI,3,1,4,8,2016,Summer,Brazil
+Greece,GRE,3,1,2,6,2016,Summer,Brazil
+Argentina,ARG,3,1,0,4,2016,Summer,Brazil
+Denmark,DEN,2,6,7,15,2016,Summer,Brazil
+Sweden,SWE,2,6,3,11,2016,Summer,Brazil
+South Africa,RSA,2,6,2,10,2016,Summer,Brazil
+Ukraine,UKR,2,5,4,11,2016,Summer,Brazil
+Serbia,SRB,2,4,2,8,2016,Summer,Brazil
+Poland,POL,2,3,6,11,2016,Summer,Brazil
+Democratic People's Republic of Korea,PRK,2,3,2,7,2016,Summer,Brazil
+Belgium,BEL,2,2,2,6,2016,Summer,Brazil
+Thailand,THA,2,2,2,6,2016,Summer,Brazil
+Slovakia,SVK,2,2,0,4,2016,Summer,Brazil
+Georgia,GEO,2,1,4,7,2016,Summer,Brazil
+Azerbaijan,AZE,1,7,10,18,2016,Summer,Brazil
+Belarus,BLR,1,4,4,9,2016,Summer,Brazil
+Turkey,TUR,1,3,4,8,2016,Summer,Brazil
+Armenia,ARM,1,3,0,4,2016,Summer,Brazil
+Czech Republic,CZE,1,2,7,10,2016,Summer,Brazil
+Ethiopia,ETH,1,2,5,8,2016,Summer,Brazil
+Slovenia,SLO,1,2,1,4,2016,Summer,Brazil
+Indonesia,INA,1,2,0,3,2016,Summer,Brazil
+Romania,ROU,1,1,2,4,2016,Summer,Brazil
+Bahrain,BRN,1,1,0,2,2016,Summer,Brazil
+Vietnam,VIE,1,1,0,2,2016,Summer,Brazil
+Chinese Taipei,TPE,1,0,2,3,2016,Summer,Brazil
+Côte d'Ivoire,CIV,1,0,1,2,2016,Summer,Brazil
+Individual Olympic Athletes,IOA,1,0,1,2,2016,Summer,Brazil
+The Bahamas,BAH,1,0,1,2,2016,Summer,Brazil
+Fiji,FIJ,1,0,0,1,2016,Summer,Brazil
+Jordan,JOR,1,0,0,1,2016,Summer,Brazil
+Kosovo,KOS,1,0,0,1,2016,Summer,Brazil
+Puerto Rico,PUR,1,0,0,1,2016,Summer,Brazil
+Singapore,SGP,1,0,0,1,2016,Summer,Brazil
+Tajikistan,TJK,1,0,0,1,2016,Summer,Brazil
+Malaysia,MAS,0,4,1,5,2016,Summer,Brazil
+Mexico,MEX,0,3,2,5,2016,Summer,Brazil
+Venezuela,VEN,0,2,1,3,2016,Summer,Brazil
+Algeria,ALG,0,2,0,2,2016,Summer,Brazil
+Ireland,IRL,0,2,0,2,2016,Summer,Brazil
+Lithuania,LTU,0,1,3,4,2016,Summer,Brazil
+Bulgaria,BUL,0,1,2,3,2016,Summer,Brazil
+India,IND,0,1,1,2,2016,Summer,Brazil
+Mongolia,MGL,0,1,1,2,2016,Summer,Brazil
+Burundi,BDI,0,1,0,1,2016,Summer,Brazil
+Grenada,GRN,0,1,0,1,2016,Summer,Brazil
+Niger,NIG,0,1,0,1,2016,Summer,Brazil
+Philippines,PHI,0,1,0,1,2016,Summer,Brazil
+Qatar,QAT,0,1,0,1,2016,Summer,Brazil
+Norway,NOR,0,0,4,4,2016,Summer,Brazil
+Egypt,EGY,0,0,3,3,2016,Summer,Brazil
+Tunisia,TUN,0,0,3,3,2016,Summer,Brazil
+Israel,ISR,0,0,2,2,2016,Summer,Brazil
+Austria,AUT,0,0,1,1,2016,Summer,Brazil
+Dominican Republic,DOM,0,0,1,1,2016,Summer,Brazil
+Estonia,EST,0,0,1,1,2016,Summer,Brazil
+Finland,FIN,0,0,1,1,2016,Summer,Brazil
+Morocco,MAR,0,0,1,1,2016,Summer,Brazil
+Nigeria,NGR,0,0,1,1,2016,Summer,Brazil
+Portugal,POR,0,0,1,1,2016,Summer,Brazil
+Trinidad and Tobago,TTO,0,0,1,1,2016,Summer,Brazil
+United Arab Emirates,UAE,0,0,1,1,2016,Summer,Brazil
+United States,USA,47,27,30,104,2012,Summer,Great Britain
+People's Republic of China,CHN,38,31,22,91,2012,Summer,Great Britain
+Great Britain,GBR,29,18,18,65,2012,Summer,Great Britain
+Russian Federation,RUS,20,21,26,67,2012,Summer,Great Britain
+Republic of Korea,KOR,13,9,8,30,2012,Summer,Great Britain
+Germany,GER,11,20,13,44,2012,Summer,Great Britain
+France,FRA,11,11,13,35,2012,Summer,Great Britain
+Australia,AUS,8,15,12,35,2012,Summer,Great Britain
+Italy,ITA,8,9,11,28,2012,Summer,Great Britain
+Hungary,HUN,8,4,6,18,2012,Summer,Great Britain
+Japan,JPN,7,14,17,38,2012,Summer,Great Britain
+Islamic Republic of Iran,IRI,7,5,1,13,2012,Summer,Great Britain
+Netherlands,NED,6,6,8,20,2012,Summer,Great Britain
+New Zealand,NZL,6,2,5,13,2012,Summer,Great Britain
+Ukraine,UKR,5,4,10,19,2012,Summer,Great Britain
+Cuba,CUB,5,3,7,15,2012,Summer,Great Britain
+Spain,ESP,4,10,6,20,2012,Summer,Great Britain
+Jamaica,JAM,4,5,3,12,2012,Summer,Great Britain
+Czech Republic,CZE,4,3,4,11,2012,Summer,Great Britain
+South Africa,RSA,4,1,1,6,2012,Summer,Great Britain
+Democratic People's Republic of Korea,PRK,4,0,2,6,2012,Summer,Great Britain
+Brazil,BRA,3,5,9,17,2012,Summer,Great Britain
+Poland,POL,3,2,6,11,2012,Summer,Great Britain
+Ethiopia,ETH,3,2,3,8,2012,Summer,Great Britain
+Kazakhstan,KAZ,3,1,7,11,2012,Summer,Great Britain
+Croatia,CRO,3,1,2,6,2012,Summer,Great Britain
+Canada,CAN,2,6,10,18,2012,Summer,Great Britain
+Belarus,BLR,2,5,3,10,2012,Summer,Great Britain
+Kenya,KEN,2,4,7,13,2012,Summer,Great Britain
+Denmark,DEN,2,4,3,9,2012,Summer,Great Britain
+Romania,ROU,2,4,1,7,2012,Summer,Great Britain
+Azerbaijan,AZE,2,2,5,9,2012,Summer,Great Britain
+Switzerland,SUI,2,2,0,4,2012,Summer,Great Britain
+Norway,NOR,2,1,1,4,2012,Summer,Great Britain
+Lithuania,LTU,2,0,3,5,2012,Summer,Great Britain
+Tunisia,TUN,2,0,1,3,2012,Summer,Great Britain
+Sweden,SWE,1,4,3,8,2012,Summer,Great Britain
+Colombia,COL,1,3,5,9,2012,Summer,Great Britain
+Mexico,MEX,1,3,4,8,2012,Summer,Great Britain
+Georgia,GEO,1,2,3,6,2012,Summer,Great Britain
+Ireland,IRL,1,1,4,6,2012,Summer,Great Britain
+Argentina,ARG,1,1,2,4,2012,Summer,Great Britain
+Serbia,SRB,1,1,2,4,2012,Summer,Great Britain
+Slovenia,SLO,1,1,2,4,2012,Summer,Great Britain
+Trinidad and Tobago,TTO,1,1,2,4,2012,Summer,Great Britain
+Turkey,TUR,1,1,1,3,2012,Summer,Great Britain
+Dominican Republic,DOM,1,1,0,2,2012,Summer,Great Britain
+Chinese Taipei,TPE,1,0,1,2,2012,Summer,Great Britain
+Latvia,LAT,1,0,1,2,2012,Summer,Great Britain
+Algeria,ALG,1,0,0,1,2012,Summer,Great Britain
+Bahrain,BRN,1,0,0,1,2012,Summer,Great Britain
+Grenada,GRN,1,0,0,1,2012,Summer,Great Britain
+The Bahamas,BAH,1,0,0,1,2012,Summer,Great Britain
+Uganda,UGA,1,0,0,1,2012,Summer,Great Britain
+Venezuela,VEN,1,0,0,1,2012,Summer,Great Britain
+Egypt,EGY,0,3,1,4,2012,Summer,Great Britain
+India,IND,0,2,4,6,2012,Summer,Great Britain
+Mongolia,MGL,0,2,3,5,2012,Summer,Great Britain
+Thailand,THA,0,2,2,4,2012,Summer,Great Britain
+Bulgaria,BUL,0,2,1,3,2012,Summer,Great Britain
+Finland,FIN,0,2,1,3,2012,Summer,Great Britain
+Indonesia,INA,0,2,1,3,2012,Summer,Great Britain
+Slovakia,SVK,0,1,3,4,2012,Summer,Great Britain
+Belgium,BEL,0,1,2,3,2012,Summer,Great Britain
+Armenia,ARM,0,1,1,2,2012,Summer,Great Britain
+Estonia,EST,0,1,1,2,2012,Summer,Great Britain
+Malaysia,MAS,0,1,1,2,2012,Summer,Great Britain
+Puerto Rico,PUR,0,1,1,2,2012,Summer,Great Britain
+Qatar,QAT,0,1,1,2,2012,Summer,Great Britain
+Botswana,BOT,0,1,0,1,2012,Summer,Great Britain
+Cyprus,CYP,0,1,0,1,2012,Summer,Great Britain
+Gabon,GAB,0,1,0,1,2012,Summer,Great Britain
+Guatemala,GUA,0,1,0,1,2012,Summer,Great Britain
+Montenegro,MNE,0,1,0,1,2012,Summer,Great Britain
+Portugal,POR,0,1,0,1,2012,Summer,Great Britain
+Uzbekistan,UZB,0,0,3,3,2012,Summer,Great Britain
+Greece,GRE,0,0,2,2,2012,Summer,Great Britain
+Singapore,SGP,0,0,2,2,2012,Summer,Great Britain
+Afghanistan,AFG,0,0,1,1,2012,Summer,Great Britain
+Cameroon,CMR,0,0,1,1,2012,Summer,Great Britain
+"Hong Kong, China",HKG,0,0,1,1,2012,Summer,Great Britain
+Kingdom of Saudi Arabia,KSA,0,0,1,1,2012,Summer,Great Britain
+Kuwait,KUW,0,0,1,1,2012,Summer,Great Britain
+Morocco,MAR,0,0,1,1,2012,Summer,Great Britain
+Tajikistan,TJK,0,0,1,1,2012,Summer,Great Britain
+Vietnam,VIE,0,0,1,1,2012,Summer,Great Britain
+People's Republic of China,CHN,48,22,30,100,2008,Summer,People's Republic of China
+United States,USA,36,39,37,112,2008,Summer,People's Republic of China
+Russian Federation,RUS,24,13,23,60,2008,Summer,People's Republic of China
+Great Britain,GBR,19,13,19,51,2008,Summer,People's Republic of China
+Germany,GER,16,11,14,41,2008,Summer,People's Republic of China
+Australia,AUS,14,15,17,46,2008,Summer,People's Republic of China
+Republic of Korea,KOR,13,11,8,32,2008,Summer,People's Republic of China
+Japan,JPN,9,8,8,25,2008,Summer,People's Republic of China
+Italy,ITA,8,9,10,27,2008,Summer,People's Republic of China
+France,FRA,7,16,20,43,2008,Summer,People's Republic of China
+Netherlands,NED,7,5,4,16,2008,Summer,People's Republic of China
+Ukraine,UKR,7,4,11,22,2008,Summer,People's Republic of China
+Kenya,KEN,6,4,6,16,2008,Summer,People's Republic of China
+Spain,ESP,5,11,3,19,2008,Summer,People's Republic of China
+Jamaica,JAM,5,4,2,11,2008,Summer,People's Republic of China
+Poland,POL,4,5,2,11,2008,Summer,People's Republic of China
+Ethiopia,ETH,4,2,1,7,2008,Summer,People's Republic of China
+Romania,ROU,4,1,4,9,2008,Summer,People's Republic of China
+Cuba,CUB,3,10,17,30,2008,Summer,People's Republic of China
+Canada,CAN,3,9,8,20,2008,Summer,People's Republic of China
+Hungary,HUN,3,5,2,10,2008,Summer,People's Republic of China
+Norway,NOR,3,5,1,9,2008,Summer,People's Republic of China
+Brazil,BRA,3,4,10,17,2008,Summer,People's Republic of China
+Belarus,BLR,3,4,7,14,2008,Summer,People's Republic of China
+Czech Republic,CZE,3,3,1,7,2008,Summer,People's Republic of China
+Slovakia,SVK,3,3,0,6,2008,Summer,People's Republic of China
+New Zealand,NZL,3,2,4,9,2008,Summer,People's Republic of China
+Georgia,GEO,3,2,2,7,2008,Summer,People's Republic of China
+Kazakhstan,KAZ,2,3,4,9,2008,Summer,People's Republic of China
+Denmark,DEN,2,2,3,7,2008,Summer,People's Republic of China
+Democratic People's Republic of Korea,PRK,2,2,2,6,2008,Summer,People's Republic of China
+Thailand,THA,2,2,2,6,2008,Summer,People's Republic of China
+Mongolia,MGL,2,2,0,4,2008,Summer,People's Republic of China
+Switzerland,SUI,2,1,4,7,2008,Summer,People's Republic of China
+Argentina,ARG,2,0,4,6,2008,Summer,People's Republic of China
+Mexico,MEX,2,0,2,4,2008,Summer,People's Republic of China
+Belgium,BEL,2,0,0,2,2008,Summer,People's Republic of China
+Zimbabwe,ZIM,1,3,0,4,2008,Summer,People's Republic of China
+Slovenia,SLO,1,2,2,5,2008,Summer,People's Republic of China
+Azerbaijan,AZE,1,1,4,6,2008,Summer,People's Republic of China
+Indonesia,INA,1,1,4,6,2008,Summer,People's Republic of China
+Bulgaria,BUL,1,1,3,5,2008,Summer,People's Republic of China
+Turkey,TUR,1,1,3,5,2008,Summer,People's Republic of China
+Chinese Taipei,TPE,1,1,2,4,2008,Summer,People's Republic of China
+Finland,FIN,1,1,2,4,2008,Summer,People's Republic of China
+Latvia,LAT,1,1,1,3,2008,Summer,People's Republic of China
+Dominican Republic,DOM,1,1,0,2,2008,Summer,People's Republic of China
+Estonia,EST,1,1,0,2,2008,Summer,People's Republic of China
+Portugal,POR,1,1,0,2,2008,Summer,People's Republic of China
+Trinidad and Tobago,TTO,1,1,0,2,2008,Summer,People's Republic of China
+India,IND,1,0,2,3,2008,Summer,People's Republic of China
+Islamic Republic of Iran,IRI,1,0,1,2,2008,Summer,People's Republic of China
+Cameroon,CMR,1,0,0,1,2008,Summer,People's Republic of China
+Panama,PAN,1,0,0,1,2008,Summer,People's Republic of China
+Tunisia,TUN,1,0,0,1,2008,Summer,People's Republic of China
+Sweden,SWE,0,4,1,5,2008,Summer,People's Republic of China
+Lithuania,LTU,0,3,2,5,2008,Summer,People's Republic of China
+Nigeria,NGR,0,3,2,5,2008,Summer,People's Republic of China
+Croatia,CRO,0,2,3,5,2008,Summer,People's Republic of China
+Colombia,COL,0,2,1,3,2008,Summer,People's Republic of China
+Greece,GRE,0,2,1,3,2008,Summer,People's Republic of China
+Armenia,ARM,0,1,4,5,2008,Summer,People's Republic of China
+Uzbekistan,UZB,0,1,3,4,2008,Summer,People's Republic of China
+Austria,AUT,0,1,2,3,2008,Summer,People's Republic of China
+Ireland,IRL,0,1,2,3,2008,Summer,People's Republic of China
+Kyrgyzstan,KGZ,0,1,2,3,2008,Summer,People's Republic of China
+Serbia,SRB,0,1,2,3,2008,Summer,People's Republic of China
+Algeria,ALG,0,1,1,2,2008,Summer,People's Republic of China
+Morocco,MAR,0,1,1,2,2008,Summer,People's Republic of China
+Tajikistan,TJK,0,1,1,2,2008,Summer,People's Republic of China
+The Bahamas,BAH,0,1,1,2,2008,Summer,People's Republic of China
+Chile,CHI,0,1,0,1,2008,Summer,People's Republic of China
+Ecuador,ECU,0,1,0,1,2008,Summer,People's Republic of China
+Iceland,ISL,0,1,0,1,2008,Summer,People's Republic of China
+Malaysia,MAS,0,1,0,1,2008,Summer,People's Republic of China
+Samoa,SAM,0,1,0,1,2008,Summer,People's Republic of China
+Singapore,SGP,0,1,0,1,2008,Summer,People's Republic of China
+South Africa,RSA,0,1,0,1,2008,Summer,People's Republic of China
+Sudan,SUD,0,1,0,1,2008,Summer,People's Republic of China
+Vietnam,VIE,0,1,0,1,2008,Summer,People's Republic of China
+Egypt,EGY,0,0,2,2,2008,Summer,People's Republic of China
+Afghanistan,AFG,0,0,1,1,2008,Summer,People's Republic of China
+Israel,ISR,0,0,1,1,2008,Summer,People's Republic of China
+Mauritius,MRI,0,0,1,1,2008,Summer,People's Republic of China
+Republic of Moldova,MDA,0,0,1,1,2008,Summer,People's Republic of China
+Togo,TOG,0,0,1,1,2008,Summer,People's Republic of China
+Venezuela,VEN,0,0,1,1,2008,Summer,People's Republic of China
+United States,USA,36,39,26,101,2004,Summer,Greece
+People's Republic of China,CHN,32,17,14,63,2004,Summer,Greece
+Russian Federation,RUS,28,26,36,90,2004,Summer,Greece
+Australia,AUS,17,16,17,50,2004,Summer,Greece
+Japan,JPN,16,9,12,37,2004,Summer,Greece
+Germany,GER,13,16,20,49,2004,Summer,Greece
+France,FRA,11,9,13,33,2004,Summer,Greece
+Italy,ITA,10,11,11,32,2004,Summer,Greece
+Republic of Korea,KOR,9,12,9,30,2004,Summer,Greece
+Great Britain,GBR,9,9,12,30,2004,Summer,Greece
+Cuba,CUB,9,7,11,27,2004,Summer,Greece
+Hungary,HUN,8,6,3,17,2004,Summer,Greece
+Ukraine,UKR,8,5,9,22,2004,Summer,Greece
+Romania,ROU,8,5,6,19,2004,Summer,Greece
+Greece,GRE,6,6,4,16,2004,Summer,Greece
+Brazil,BRA,5,2,3,10,2004,Summer,Greece
+Norway,NOR,5,0,1,6,2004,Summer,Greece
+Netherlands,NED,4,9,9,22,2004,Summer,Greece
+Sweden,SWE,4,2,1,7,2004,Summer,Greece
+Spain,ESP,3,11,6,20,2004,Summer,Greece
+Canada,CAN,3,6,3,12,2004,Summer,Greece
+Turkey,TUR,3,3,4,10,2004,Summer,Greece
+Poland,POL,3,2,5,10,2004,Summer,Greece
+New Zealand,NZL,3,2,0,5,2004,Summer,Greece
+Thailand,THA,3,1,4,8,2004,Summer,Greece
+Belarus,BLR,2,5,6,13,2004,Summer,Greece
+Austria,AUT,2,4,1,7,2004,Summer,Greece
+Ethiopia,ETH,2,3,2,7,2004,Summer,Greece
+Islamic Republic of Iran,IRI,2,2,2,6,2004,Summer,Greece
+Slovakia,SVK,2,2,2,6,2004,Summer,Greece
+Chinese Taipei,TPE,2,2,1,5,2004,Summer,Greece
+Georgia,GEO,2,2,0,4,2004,Summer,Greece
+Bulgaria,BUL,2,1,9,12,2004,Summer,Greece
+Denmark,DEN,2,1,5,8,2004,Summer,Greece
+Jamaica,JAM,2,1,2,5,2004,Summer,Greece
+Uzbekistan,UZB,2,1,2,5,2004,Summer,Greece
+Morocco,MAR,2,1,0,3,2004,Summer,Greece
+Argentina,ARG,2,0,4,6,2004,Summer,Greece
+Chile,CHI,2,0,1,3,2004,Summer,Greece
+Kazakhstan,KAZ,1,4,3,8,2004,Summer,Greece
+Kenya,KEN,1,4,2,7,2004,Summer,Greece
+Czech Republic,CZE,1,3,5,9,2004,Summer,Greece
+South Africa,RSA,1,3,2,6,2004,Summer,Greece
+Croatia,CRO,1,2,2,5,2004,Summer,Greece
+Lithuania,LTU,1,2,0,3,2004,Summer,Greece
+Egypt,EGY,1,1,3,5,2004,Summer,Greece
+Switzerland,SUI,1,1,3,5,2004,Summer,Greece
+Indonesia,INA,1,1,2,4,2004,Summer,Greece
+Zimbabwe,ZIM,1,1,1,3,2004,Summer,Greece
+Azerbaijan,AZE,1,0,4,5,2004,Summer,Greece
+Belgium,BEL,1,0,2,3,2004,Summer,Greece
+Israel,ISR,1,0,1,2,2004,Summer,Greece
+The Bahamas,BAH,1,0,1,2,2004,Summer,Greece
+Cameroon,CMR,1,0,0,1,2004,Summer,Greece
+Dominican Republic,DOM,1,0,0,1,2004,Summer,Greece
+United Arab Emirates,UAE,1,0,0,1,2004,Summer,Greece
+Democratic People's Republic of Korea,PRK,0,4,1,5,2004,Summer,Greece
+Latvia,LAT,0,4,0,4,2004,Summer,Greece
+Mexico,MEX,0,3,1,4,2004,Summer,Greece
+Portugal,POR,0,2,1,3,2004,Summer,Greece
+Finland,FIN,0,2,0,2,2004,Summer,Greece
+Serbia and Montenegro,SCG,0,2,0,2,2004,Summer,Greece
+Slovenia,SLO,0,1,3,4,2004,Summer,Greece
+Estonia,EST,0,1,2,3,2004,Summer,Greece
+"Hong Kong, China",HKG,0,1,0,1,2004,Summer,Greece
+India,IND,0,1,0,1,2004,Summer,Greece
+Paraguay,PAR,0,1,0,1,2004,Summer,Greece
+Colombia,COL,0,0,2,2,2004,Summer,Greece
+Nigeria,NGR,0,0,2,2,2004,Summer,Greece
+Venezuela,VEN,0,0,2,2,2004,Summer,Greece
+Eritrea,ERI,0,0,1,1,2004,Summer,Greece
+Mongolia,MGL,0,0,1,1,2004,Summer,Greece
+Syrian Arab Republic,SYR,0,0,1,1,2004,Summer,Greece
+Trinidad and Tobago,TTO,0,0,1,1,2004,Summer,Greece
+United States,USA,37,24,32,93,2000,Summer,Australia
+Russian Federation,RUS,32,28,29,89,2000,Summer,Australia
+People's Republic of China,CHN,28,16,14,58,2000,Summer,Australia
+Australia,AUS,16,25,17,58,2000,Summer,Australia
+Germany,GER,13,17,26,56,2000,Summer,Australia
+France,FRA,13,14,11,38,2000,Summer,Australia
+Italy,ITA,13,8,13,34,2000,Summer,Australia
+Netherlands,NED,12,9,4,25,2000,Summer,Australia
+Cuba,CUB,11,11,7,29,2000,Summer,Australia
+Great Britain,GBR,11,10,7,28,2000,Summer,Australia
+Romania,ROU,11,6,9,26,2000,Summer,Australia
+Republic of Korea,KOR,8,10,10,28,2000,Summer,Australia
+Hungary,HUN,8,6,3,17,2000,Summer,Australia
+Poland,POL,6,5,3,14,2000,Summer,Australia
+Japan,JPN,5,8,5,18,2000,Summer,Australia
+Bulgaria,BUL,5,6,2,13,2000,Summer,Australia
+Greece,GRE,4,6,3,13,2000,Summer,Australia
+Sweden,SWE,4,5,3,12,2000,Summer,Australia
+Norway,NOR,4,3,3,10,2000,Summer,Australia
+Ethiopia,ETH,4,1,3,8,2000,Summer,Australia
+Ukraine,UKR,3,10,10,23,2000,Summer,Australia
+Kazakhstan,KAZ,3,4,0,7,2000,Summer,Australia
+Belarus,BLR,3,3,11,17,2000,Summer,Australia
+Canada,CAN,3,3,8,14,2000,Summer,Australia
+Spain,ESP,3,3,5,11,2000,Summer,Australia
+Turkey,TUR,3,0,2,5,2000,Summer,Australia
+Islamic Republic of Iran,IRI,3,0,1,4,2000,Summer,Australia
+Czech Republic,CZE,2,3,3,8,2000,Summer,Australia
+Kenya,KEN,2,3,2,7,2000,Summer,Australia
+Denmark,DEN,2,3,1,6,2000,Summer,Australia
+Finland,FIN,2,1,1,4,2000,Summer,Australia
+Austria,AUT,2,1,0,3,2000,Summer,Australia
+Lithuania,LTU,2,0,3,5,2000,Summer,Australia
+Azerbaijan,AZE,2,0,1,3,2000,Summer,Australia
+The Bahamas,BAH,2,0,1,3,2000,Summer,Australia
+Slovenia,SLO,2,0,0,2,2000,Summer,Australia
+Switzerland,SUI,1,6,2,9,2000,Summer,Australia
+Indonesia,INA,1,3,2,6,2000,Summer,Australia
+Slovakia,SVK,1,3,1,5,2000,Summer,Australia
+Mexico,MEX,1,2,3,6,2000,Summer,Australia
+Nigeria,NGR,1,2,0,3,2000,Summer,Australia
+Algeria,ALG,1,1,3,5,2000,Summer,Australia
+Uzbekistan,UZB,1,1,2,4,2000,Summer,Australia
+Latvia,LAT,1,1,1,3,2000,Summer,Australia
+Serbia and Montenegro,SCG,1,1,1,3,2000,Summer,Australia
+New Zealand,NZL,1,0,3,4,2000,Summer,Australia
+Estonia,EST,1,0,2,3,2000,Summer,Australia
+Thailand,THA,1,0,2,3,2000,Summer,Australia
+Croatia,CRO,1,0,1,2,2000,Summer,Australia
+Cameroon,CMR,1,0,0,1,2000,Summer,Australia
+Colombia,COL,1,0,0,1,2000,Summer,Australia
+Mozambique,MOZ,1,0,0,1,2000,Summer,Australia
+Brazil,BRA,0,6,6,12,2000,Summer,Australia
+Jamaica,JAM,0,6,3,9,2000,Summer,Australia
+Belgium,BEL,0,2,3,5,2000,Summer,Australia
+South Africa,RSA,0,2,3,5,2000,Summer,Australia
+Argentina,ARG,0,2,2,4,2000,Summer,Australia
+Chinese Taipei,TPE,0,1,4,5,2000,Summer,Australia
+Morocco,MAR,0,1,4,5,2000,Summer,Australia
+Democratic People's Republic of Korea,PRK,0,1,3,4,2000,Summer,Australia
+Kingdom of Saudi Arabia,KSA,0,1,1,2,2000,Summer,Australia
+Republic of Moldova,MDA,0,1,1,2,2000,Summer,Australia
+Trinidad and Tobago,TTO,0,1,1,2,2000,Summer,Australia
+Ireland,IRL,0,1,0,1,2000,Summer,Australia
+Sri Lanka,SRI,0,1,0,1,2000,Summer,Australia
+Uruguay,URU,0,1,0,1,2000,Summer,Australia
+Vietnam,VIE,0,1,0,1,2000,Summer,Australia
+Georgia,GEO,0,0,6,6,2000,Summer,Australia
+Costa Rica,CRC,0,0,2,2,2000,Summer,Australia
+Portugal,POR,0,0,2,2,2000,Summer,Australia
+Armenia,ARM,0,0,1,1,2000,Summer,Australia
+Barbados,BAR,0,0,1,1,2000,Summer,Australia
+Chile,CHI,0,0,1,1,2000,Summer,Australia
+Iceland,ISL,0,0,1,1,2000,Summer,Australia
+India,IND,0,0,1,1,2000,Summer,Australia
+Israel,ISR,0,0,1,1,2000,Summer,Australia
+Kuwait,KUW,0,0,1,1,2000,Summer,Australia
+Kyrgyzstan,KGZ,0,0,1,1,2000,Summer,Australia
+North Macedonia,MKD,0,0,1,1,2000,Summer,Australia
+Qatar,QAT,0,0,1,1,2000,Summer,Australia
+United States,USA,44,32,25,101,1996,Summer,United States
+Russian Federation,RUS,26,21,16,63,1996,Summer,United States
+Germany,GER,20,18,27,65,1996,Summer,United States
+People's Republic of China,CHN,16,22,12,50,1996,Summer,United States
+France,FRA,15,7,15,37,1996,Summer,United States
+Italy,ITA,13,10,12,35,1996,Summer,United States
+Australia,AUS,9,9,23,41,1996,Summer,United States
+Cuba,CUB,9,8,8,25,1996,Summer,United States
+Ukraine,UKR,9,2,12,23,1996,Summer,United States
+Republic of Korea,KOR,7,15,5,27,1996,Summer,United States
+Poland,POL,7,5,5,17,1996,Summer,United States
+Hungary,HUN,7,4,10,21,1996,Summer,United States
+Spain,ESP,5,6,6,17,1996,Summer,United States
+Romania,ROU,4,7,9,20,1996,Summer,United States
+Netherlands,NED,4,5,10,19,1996,Summer,United States
+Greece,GRE,4,4,0,8,1996,Summer,United States
+Czech Republic,CZE,4,3,4,11,1996,Summer,United States
+Switzerland,SUI,4,3,0,7,1996,Summer,United States
+Denmark,DEN,4,1,1,6,1996,Summer,United States
+Turkey,TUR,4,1,1,6,1996,Summer,United States
+Canada,CAN,3,11,8,22,1996,Summer,United States
+Bulgaria,BUL,3,7,5,15,1996,Summer,United States
+Japan,JPN,3,6,5,14,1996,Summer,United States
+Kazakhstan,KAZ,3,4,4,11,1996,Summer,United States
+Brazil,BRA,3,3,9,15,1996,Summer,United States
+New Zealand,NZL,3,2,1,6,1996,Summer,United States
+South Africa,RSA,3,1,1,5,1996,Summer,United States
+Ireland,IRL,3,0,1,4,1996,Summer,United States
+Sweden,SWE,2,4,2,8,1996,Summer,United States
+Norway,NOR,2,2,3,7,1996,Summer,United States
+Belgium,BEL,2,2,2,6,1996,Summer,United States
+Nigeria,NGR,2,1,3,6,1996,Summer,United States
+Democratic People's Republic of Korea,PRK,2,1,2,5,1996,Summer,United States
+Algeria,ALG,2,0,1,3,1996,Summer,United States
+Ethiopia,ETH,2,0,1,3,1996,Summer,United States
+Great Britain,GBR,1,8,6,15,1996,Summer,United States
+Belarus,BLR,1,6,8,15,1996,Summer,United States
+Kenya,KEN,1,4,3,8,1996,Summer,United States
+Jamaica,JAM,1,3,2,6,1996,Summer,United States
+Finland,FIN,1,2,1,4,1996,Summer,United States
+Indonesia,INA,1,1,2,4,1996,Summer,United States
+Serbia and Montenegro,SCG,1,1,2,4,1996,Summer,United States
+Islamic Republic of Iran,IRI,1,1,1,3,1996,Summer,United States
+Slovakia,SVK,1,1,1,3,1996,Summer,United States
+Armenia,ARM,1,1,0,2,1996,Summer,United States
+Croatia,CRO,1,1,0,2,1996,Summer,United States
+Portugal,POR,1,0,1,2,1996,Summer,United States
+Thailand,THA,1,0,1,2,1996,Summer,United States
+Burundi,BDI,1,0,0,1,1996,Summer,United States
+Costa Rica,CRC,1,0,0,1,1996,Summer,United States
+Ecuador,ECU,1,0,0,1,1996,Summer,United States
+"Hong Kong, China",HKG,1,0,0,1,1996,Summer,United States
+Syrian Arab Republic,SYR,1,0,0,1,1996,Summer,United States
+Argentina,ARG,0,2,1,3,1996,Summer,United States
+Namibia,NAM,0,2,0,2,1996,Summer,United States
+Slovenia,SLO,0,2,0,2,1996,Summer,United States
+Austria,AUT,0,1,2,3,1996,Summer,United States
+Malaysia,MAS,0,1,1,2,1996,Summer,United States
+Republic of Moldova,MDA,0,1,1,2,1996,Summer,United States
+Uzbekistan,UZB,0,1,1,2,1996,Summer,United States
+Azerbaijan,AZE,0,1,0,1,1996,Summer,United States
+Chinese Taipei,TPE,0,1,0,1,1996,Summer,United States
+Latvia,LAT,0,1,0,1,1996,Summer,United States
+Philippines,PHI,0,1,0,1,1996,Summer,United States
+The Bahamas,BAH,0,1,0,1,1996,Summer,United States
+Tonga,TGA,0,1,0,1,1996,Summer,United States
+Zambia,ZAM,0,1,0,1,1996,Summer,United States
+Georgia,GEO,0,0,2,2,1996,Summer,United States
+Morocco,MAR,0,0,2,2,1996,Summer,United States
+Trinidad and Tobago,TTO,0,0,2,2,1996,Summer,United States
+India,IND,0,0,1,1,1996,Summer,United States
+Israel,ISR,0,0,1,1,1996,Summer,United States
+Lithuania,LTU,0,0,1,1,1996,Summer,United States
+Mexico,MEX,0,0,1,1,1996,Summer,United States
+Mongolia,MGL,0,0,1,1,1996,Summer,United States
+Mozambique,MOZ,0,0,1,1,1996,Summer,United States
+Puerto Rico,PUR,0,0,1,1,1996,Summer,United States
+Tunisia,TUN,0,0,1,1,1996,Summer,United States
+Uganda,UGA,0,0,1,1,1996,Summer,United States
+Unified Team,EUN,45,38,29,112,1992,Summer,Spain
+United States,USA,37,34,37,108,1992,Summer,Spain
+Germany,GER,33,21,28,82,1992,Summer,Spain
+People's Republic of China,CHN,16,22,16,54,1992,Summer,Spain
+Cuba,CUB,14,6,11,31,1992,Summer,Spain
+Spain,ESP,13,7,2,22,1992,Summer,Spain
+Republic of Korea,KOR,12,5,12,29,1992,Summer,Spain
+Hungary,HUN,11,12,7,30,1992,Summer,Spain
+France,FRA,8,5,16,29,1992,Summer,Spain
+Australia,AUS,7,9,11,27,1992,Summer,Spain
+Canada,CAN,7,4,7,18,1992,Summer,Spain
+Italy,ITA,6,5,8,19,1992,Summer,Spain
+Great Britain,GBR,5,3,12,20,1992,Summer,Spain
+Romania,ROU,4,6,8,18,1992,Summer,Spain
+Czechoslovakia,TCH,4,2,1,7,1992,Summer,Spain
+Democratic People's Republic of Korea,PRK,4,0,5,9,1992,Summer,Spain
+Japan,JPN,3,8,11,22,1992,Summer,Spain
+Bulgaria,BUL,3,7,6,16,1992,Summer,Spain
+Poland,POL,3,6,10,19,1992,Summer,Spain
+Netherlands,NED,2,6,7,15,1992,Summer,Spain
+Kenya,KEN,2,4,2,8,1992,Summer,Spain
+Norway,NOR,2,4,1,7,1992,Summer,Spain
+Turkey,TUR,2,2,2,6,1992,Summer,Spain
+Indonesia,INA,2,2,1,5,1992,Summer,Spain
+Brazil,BRA,2,1,0,3,1992,Summer,Spain
+Greece,GRE,2,0,0,2,1992,Summer,Spain
+Sweden,SWE,1,7,4,12,1992,Summer,Spain
+New Zealand,NZL,1,4,5,10,1992,Summer,Spain
+Finland,FIN,1,2,2,5,1992,Summer,Spain
+Denmark,DEN,1,1,4,6,1992,Summer,Spain
+Morocco,MAR,1,1,1,3,1992,Summer,Spain
+Ireland,IRL,1,1,0,2,1992,Summer,Spain
+Ethiopia,ETH,1,0,2,3,1992,Summer,Spain
+Algeria,ALG,1,0,1,2,1992,Summer,Spain
+Estonia,EST,1,0,1,2,1992,Summer,Spain
+Lithuania,LTU,1,0,1,2,1992,Summer,Spain
+Switzerland,SUI,1,0,0,1,1992,Summer,Spain
+Jamaica,JAM,0,3,1,4,1992,Summer,Spain
+Nigeria,NGR,0,3,1,4,1992,Summer,Spain
+Latvia,LAT,0,2,1,3,1992,Summer,Spain
+Austria,AUT,0,2,0,2,1992,Summer,Spain
+Namibia,NAM,0,2,0,2,1992,Summer,Spain
+South Africa,RSA,0,2,0,2,1992,Summer,Spain
+Belgium,BEL,0,1,2,3,1992,Summer,Spain
+Croatia,CRO,0,1,2,3,1992,Summer,Spain
+Individual Olympic Athletes,IOA,0,1,2,3,1992,Summer,Spain
+Islamic Republic of Iran,IRI,0,1,2,3,1992,Summer,Spain
+Israel,ISR,0,1,1,2,1992,Summer,Spain
+Chinese Taipei,TPE,0,1,0,1,1992,Summer,Spain
+Mexico,MEX,0,1,0,1,1992,Summer,Spain
+Peru,PER,0,1,0,1,1992,Summer,Spain
+Mongolia,MGL,0,0,2,2,1992,Summer,Spain
+Slovenia,SLO,0,0,2,2,1992,Summer,Spain
+Argentina,ARG,0,0,1,1,1992,Summer,Spain
+Colombia,COL,0,0,1,1,1992,Summer,Spain
+Ghana,GHA,0,0,1,1,1992,Summer,Spain
+Malaysia,MAS,0,0,1,1,1992,Summer,Spain
+Pakistan,PAK,0,0,1,1,1992,Summer,Spain
+Philippines,PHI,0,0,1,1,1992,Summer,Spain
+Puerto Rico,PUR,0,0,1,1,1992,Summer,Spain
+Qatar,QAT,0,0,1,1,1992,Summer,Spain
+Suriname,SUR,0,0,1,1,1992,Summer,Spain
+Thailand,THA,0,0,1,1,1992,Summer,Spain
+The Bahamas,BAH,0,0,1,1,1992,Summer,Spain
+Norway,NOR,14,14,11,39,2018,Winter,Republic of Korea
+Germany,GER,14,10,7,31,2018,Winter,Republic of Korea
+Canada,CAN,11,8,10,29,2018,Winter,Republic of Korea
+United States,USA,9,8,6,23,2018,Winter,Republic of Korea
+Netherlands,NED,8,6,6,20,2018,Winter,Republic of Korea
+Sweden,SWE,7,6,1,14,2018,Winter,Republic of Korea
+Republic of Korea,KOR,5,8,4,17,2018,Winter,Republic of Korea
+Switzerland,SUI,5,6,4,15,2018,Winter,Republic of Korea
+France,FRA,5,4,6,15,2018,Winter,Republic of Korea
+Austria,AUT,5,3,6,14,2018,Winter,Republic of Korea
+Japan,JPN,4,5,4,13,2018,Winter,Republic of Korea
+Italy,ITA,3,2,5,10,2018,Winter,Republic of Korea
+Russian Olympic Committee,ROC,2,6,9,17,2018,Winter,Republic of Korea
+Czech Republic,CZE,2,2,3,7,2018,Winter,Republic of Korea
+Belarus,BLR,2,1,0,3,2018,Winter,Republic of Korea
+People's Republic of China,CHN,1,6,2,9,2018,Winter,Republic of Korea
+Slovakia,SVK,1,2,0,3,2018,Winter,Republic of Korea
+Finland,FIN,1,1,4,6,2018,Winter,Republic of Korea
+Great Britain,GBR,1,0,4,5,2018,Winter,Republic of Korea
+Poland,POL,1,0,1,2,2018,Winter,Republic of Korea
+Hungary,HUN,1,0,0,1,2018,Winter,Republic of Korea
+Ukraine,UKR,1,0,0,1,2018,Winter,Republic of Korea
+Australia,AUS,0,2,1,3,2018,Winter,Republic of Korea
+Slovenia,SLO,0,1,1,2,2018,Winter,Republic of Korea
+Belgium,BEL,0,1,0,1,2018,Winter,Republic of Korea
+New Zealand,NZL,0,0,2,2,2018,Winter,Republic of Korea
+Spain,ESP,0,0,2,2,2018,Winter,Republic of Korea
+Kazakhstan,KAZ,0,0,1,1,2018,Winter,Republic of Korea
+Latvia,LAT,0,0,1,1,2018,Winter,Republic of Korea
+Liechtenstein,LIE,0,0,1,1,2018,Winter,Republic of Korea
+Norway,NOR,11,5,10,26,2014,Winter,Russian Federation
+Russian Federation,RUS,10,10,9,29,2014,Winter,Russian Federation
+Canada,CAN,10,10,5,25,2014,Winter,Russian Federation
+United States,USA,9,9,10,28,2014,Winter,Russian Federation
+Netherlands,NED,8,7,9,24,2014,Winter,Russian Federation
+Germany,GER,8,6,5,19,2014,Winter,Russian Federation
+Switzerland,SUI,7,2,2,11,2014,Winter,Russian Federation
+Belarus,BLR,5,0,1,6,2014,Winter,Russian Federation
+Austria,AUT,4,8,5,17,2014,Winter,Russian Federation
+France,FRA,4,4,7,15,2014,Winter,Russian Federation
+Poland,POL,4,1,1,6,2014,Winter,Russian Federation
+People's Republic of China,CHN,3,4,2,9,2014,Winter,Russian Federation
+Republic of Korea,KOR,3,3,2,8,2014,Winter,Russian Federation
+Sweden,SWE,2,7,6,15,2014,Winter,Russian Federation
+Czech Republic,CZE,2,4,2,8,2014,Winter,Russian Federation
+Slovenia,SLO,2,2,4,8,2014,Winter,Russian Federation
+Japan,JPN,1,4,3,8,2014,Winter,Russian Federation
+Finland,FIN,1,3,1,5,2014,Winter,Russian Federation
+Great Britain,GBR,1,1,3,5,2014,Winter,Russian Federation
+Latvia,LAT,1,1,3,5,2014,Winter,Russian Federation
+Ukraine,UKR,1,0,1,2,2014,Winter,Russian Federation
+Slovakia,SVK,1,0,0,1,2014,Winter,Russian Federation
+Italy,ITA,0,2,6,8,2014,Winter,Russian Federation
+Australia,AUS,0,2,1,3,2014,Winter,Russian Federation
+Croatia,CRO,0,1,0,1,2014,Winter,Russian Federation
+Kazakhstan,KAZ,0,0,1,1,2014,Winter,Russian Federation
+Canada,CAN,14,7,5,26,2010,Winter,Canada
+Germany,GER,10,13,7,30,2010,Winter,Canada
+United States,USA,9,15,13,37,2010,Winter,Canada
+Norway,NOR,9,8,6,23,2010,Winter,Canada
+Republic of Korea,KOR,6,6,2,14,2010,Winter,Canada
+Switzerland,SUI,6,0,3,9,2010,Winter,Canada
+People's Republic of China,CHN,5,2,4,11,2010,Winter,Canada
+Sweden,SWE,5,2,4,11,2010,Winter,Canada
+Austria,AUT,4,6,6,16,2010,Winter,Canada
+Netherlands,NED,4,1,3,8,2010,Winter,Canada
+Russian Federation,RUS,3,5,7,15,2010,Winter,Canada
+France,FRA,2,3,6,11,2010,Winter,Canada
+Australia,AUS,2,1,0,3,2010,Winter,Canada
+Czech Republic,CZE,2,0,4,6,2010,Winter,Canada
+Poland,POL,1,3,2,6,2010,Winter,Canada
+Italy,ITA,1,1,3,5,2010,Winter,Canada
+Belarus,BLR,1,1,1,3,2010,Winter,Canada
+Slovakia,SVK,1,1,1,3,2010,Winter,Canada
+Great Britain,GBR,1,0,0,1,2010,Winter,Canada
+Japan,JPN,0,3,2,5,2010,Winter,Canada
+Croatia,CRO,0,2,1,3,2010,Winter,Canada
+Slovenia,SLO,0,2,1,3,2010,Winter,Canada
+Latvia,LAT,0,2,0,2,2010,Winter,Canada
+Finland,FIN,0,1,4,5,2010,Winter,Canada
+Estonia,EST,0,1,0,1,2010,Winter,Canada
+Kazakhstan,KAZ,0,1,0,1,2010,Winter,Canada
+Germany,GER,11,12,6,29,2006,Winter,Italy
+United States,USA,9,9,7,25,2006,Winter,Italy
+Austria,AUT,9,7,7,23,2006,Winter,Italy
+Russian Federation,RUS,8,6,8,22,2006,Winter,Italy
+Canada,CAN,7,10,7,24,2006,Winter,Italy
+Sweden,SWE,7,2,5,14,2006,Winter,Italy
+Republic of Korea,KOR,6,3,2,11,2006,Winter,Italy
+Switzerland,SUI,5,4,5,14,2006,Winter,Italy
+Italy,ITA,5,0,6,11,2006,Winter,Italy
+France,FRA,3,2,4,9,2006,Winter,Italy
+Netherlands,NED,3,2,4,9,2006,Winter,Italy
+Estonia,EST,3,0,0,3,2006,Winter,Italy
+Norway,NOR,2,8,9,19,2006,Winter,Italy
+People's Republic of China,CHN,2,4,5,11,2006,Winter,Italy
+Czech Republic,CZE,1,2,1,4,2006,Winter,Italy
+Croatia,CRO,1,2,0,3,2006,Winter,Italy
+Australia,AUS,1,0,1,2,2006,Winter,Italy
+Japan,JPN,1,0,0,1,2006,Winter,Italy
+Finland,FIN,0,6,3,9,2006,Winter,Italy
+Poland,POL,0,1,1,2,2006,Winter,Italy
+Belarus,BLR,0,1,0,1,2006,Winter,Italy
+Bulgaria,BUL,0,1,0,1,2006,Winter,Italy
+Great Britain,GBR,0,1,0,1,2006,Winter,Italy
+Slovakia,SVK,0,1,0,1,2006,Winter,Italy
+Ukraine,UKR,0,0,2,2,2006,Winter,Italy
+Latvia,LAT,0,0,1,1,2006,Winter,Italy
+Norway,NOR,13,5,7,25,2002,Winter,United States
+Germany,GER,12,16,8,36,2002,Winter,United States
+United States,USA,10,13,11,34,2002,Winter,United States
+Canada,CAN,7,3,7,17,2002,Winter,United States
+Russian Federation,RUS,5,4,4,13,2002,Winter,United States
+France,FRA,4,5,2,11,2002,Winter,United States
+Italy,ITA,4,4,5,13,2002,Winter,United States
+Finland,FIN,4,2,1,7,2002,Winter,United States
+Netherlands,NED,3,5,0,8,2002,Winter,United States
+Austria,AUT,3,4,10,17,2002,Winter,United States
+Switzerland,SUI,3,2,6,11,2002,Winter,United States
+Croatia,CRO,3,1,0,4,2002,Winter,United States
+People's Republic of China,CHN,2,2,4,8,2002,Winter,United States
+Republic of Korea,KOR,2,2,0,4,2002,Winter,United States
+Australia,AUS,2,0,0,2,2002,Winter,United States
+Czech Republic,CZE,1,2,0,3,2002,Winter,United States
+Estonia,EST,1,1,1,3,2002,Winter,United States
+Great Britain,GBR,1,0,1,2,2002,Winter,United States
+Sweden,SWE,0,2,5,7,2002,Winter,United States
+Bulgaria,BUL,0,1,2,3,2002,Winter,United States
+Japan,JPN,0,1,1,2,2002,Winter,United States
+Poland,POL,0,1,1,2,2002,Winter,United States
+Belarus,BLR,0,0,1,1,2002,Winter,United States
+Slovenia,SLO,0,0,1,1,2002,Winter,United States
+Germany,GER,12,9,8,29,1998,Winter,Japan
+Norway,NOR,10,10,5,25,1998,Winter,Japan
+Russian Federation,RUS,9,6,3,18,1998,Winter,Japan
+Canada,CAN,6,5,4,15,1998,Winter,Japan
+United States,USA,6,3,4,13,1998,Winter,Japan
+Netherlands,NED,5,4,2,11,1998,Winter,Japan
+Japan,JPN,5,1,4,10,1998,Winter,Japan
+Austria,AUT,3,5,9,17,1998,Winter,Japan
+Republic of Korea,KOR,3,1,2,6,1998,Winter,Japan
+Italy,ITA,2,6,2,10,1998,Winter,Japan
+Finland,FIN,2,4,6,12,1998,Winter,Japan
+Switzerland,SUI,2,2,3,7,1998,Winter,Japan
+France,FRA,2,1,5,8,1998,Winter,Japan
+Czech Republic,CZE,1,1,1,3,1998,Winter,Japan
+Bulgaria,BUL,1,0,0,1,1998,Winter,Japan
+People's Republic of China,CHN,0,6,2,8,1998,Winter,Japan
+Sweden,SWE,0,2,1,3,1998,Winter,Japan
+Denmark,DEN,0,1,0,1,1998,Winter,Japan
+Ukraine,UKR,0,1,0,1,1998,Winter,Japan
+Belarus,BLR,0,0,2,2,1998,Winter,Japan
+Kazakhstan,KAZ,0,0,2,2,1998,Winter,Japan
+Australia,AUS,0,0,1,1,1998,Winter,Japan
+Belgium,BEL,0,0,1,1,1998,Winter,Japan
+Great Britain,GBR,0,0,1,1,1998,Winter,Japan
+Russian Federation,RUS,11,8,4,23,1994,Winter,Norway
+Norway,NOR,10,11,5,26,1994,Winter,Norway
+Germany,GER,9,7,8,24,1994,Winter,Norway
+Italy,ITA,7,5,8,20,1994,Winter,Norway
+United States,USA,6,5,2,13,1994,Winter,Norway
+Republic of Korea,KOR,4,1,1,6,1994,Winter,Norway
+Canada,CAN,3,6,4,13,1994,Winter,Norway
+Switzerland,SUI,3,4,2,9,1994,Winter,Norway
+Austria,AUT,2,3,4,9,1994,Winter,Norway
+Sweden,SWE,2,1,0,3,1994,Winter,Norway
+Japan,JPN,1,2,2,5,1994,Winter,Norway
+Kazakhstan,KAZ,1,2,0,3,1994,Winter,Norway
+Ukraine,UKR,1,0,1,2,1994,Winter,Norway
+Uzbekistan,UZB,1,0,0,1,1994,Winter,Norway
+Belarus,BLR,0,2,0,2,1994,Winter,Norway
+Finland,FIN,0,1,5,6,1994,Winter,Norway
+France,FRA,0,1,4,5,1994,Winter,Norway
+Netherlands,NED,0,1,3,4,1994,Winter,Norway
+People's Republic of China,CHN,0,1,2,3,1994,Winter,Norway
+Slovenia,SLO,0,0,3,3,1994,Winter,Norway
+Great Britain,GBR,0,0,2,2,1994,Winter,Norway
+Australia,AUS,0,0,1,1,1994,Winter,Norway
+Germany,GER,10,10,6,26,1992,Winter,France
+Unified Team,EUN,9,6,8,23,1992,Winter,France
+Norway,NOR,9,6,5,20,1992,Winter,France
+Austria,AUT,6,7,8,21,1992,Winter,France
+United States,USA,5,4,2,11,1992,Winter,France
+Italy,ITA,4,6,4,14,1992,Winter,France
+France,FRA,3,5,1,9,1992,Winter,France
+Finland,FIN,3,1,3,7,1992,Winter,France
+Canada,CAN,2,3,2,7,1992,Winter,France
+Republic of Korea,KOR,2,1,1,4,1992,Winter,France
+Japan,JPN,1,2,4,7,1992,Winter,France
+Netherlands,NED,1,1,2,4,1992,Winter,France
+Sweden,SWE,1,0,3,4,1992,Winter,France
+Switzerland,SUI,1,0,2,3,1992,Winter,France
+People's Republic of China,CHN,0,3,0,3,1992,Winter,France
+Luxembourg,LUX,0,2,0,2,1992,Winter,France
+New Zealand,NZL,0,1,0,1,1992,Winter,France
+Czechoslovakia,TCH,0,0,3,3,1992,Winter,France
+Democratic People's Republic of Korea,PRK,0,0,1,1,1992,Winter,France
+Spain,ESP,0,0,1,1,1992,Winter,France
